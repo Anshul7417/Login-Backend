@@ -1,0 +1,11 @@
+to get form data and store it ina database we have to put a attribute name in the input tag and then try to get the data by req.body.nameattribute and store it as like rest api.
+and in the form tag in html we write action as /link and method POST.
+
+encryption is two way whereas hashing is one way.
+
+
+Cookies store local data of our browser usage on the browser itself.
+
+Suppose ek br login kiya aur fr hme jwt mil gya fr hr request m jwt jayega jo hmare server ko btayega ki yeh hum hi h ex-amazon save cart
+
+
