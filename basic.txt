@@ -6,6 +6,8 @@ encryption is two way whereas hashing is one way.
 
 Cookies store local data of our browser usage on the browser itself.
 
-Suppose ek br login kiya aur fr hme jwt mil gya fr hr request m jwt jayega jo hmare server ko btayega ki yeh hum hi h ex-amazon save cart
+Suppose ek br login kiya aur fr hme jwt mil gya fr hr request m jwt jayega jo hmare server ko btayega ki yeh hum hi h ex-amazon save cart.Server create krke deta hai token fr client k pss hi rehta hai.
+
+Cookies are small files which are stored on a user's computer.They are designed to hold a modest amount of data specific to a particular client and website, and can be accessed either by the web server or the client computer.
 
 
